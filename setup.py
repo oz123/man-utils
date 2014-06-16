@@ -33,13 +33,13 @@ setup(
     packages=[
         'man-utils',
     ],
-    package_dir={'man-utils':
-                 'man-utils'},
+    package_dir={'manutils':
+                 'manutils'},
     include_package_data=True,
     install_requires=requirements,
     license="BSD",
     zip_safe=False,
-    keywords='man-utils',
+    keywords='man-utils, man pages',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',

@@ -10,7 +10,7 @@ Tests for `man-utils` module.
 
 import unittest
 
-from man-utils import man-utils
+from manutils import manutils
 
 
 class TestMan-utils(unittest.TestCase):
