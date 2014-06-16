@@ -25,7 +25,7 @@ test_requirements = [
 setup(
     name='man-utils',
     version='0.0.1',
-    description='man-utils is a collection of utils and libraries to help package maintainer easily create and maintain man pages',
+    description='man-utils is a collection of utils and libraries to help package maintainers easily create and maintain man pages for Python projects.',
     long_description=readme + '\n\n' + history,
     author='Oz N Tiram',
     author_email='oz.tiram@gmail.com',
