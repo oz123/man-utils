@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 
 """
-test_man-utils
+test_manutils
 ----------------------------------
 
-Tests for `man-utils` module.
+Tests for `manutils` module.
 """
 
 import unittest
@@ -13,7 +13,7 @@ import unittest
 from manutils import manutils
 
 
-class TestMan-utils(unittest.TestCase):
+class TestManutils(unittest.TestCase):
 
     def setUp(self):
         pass
