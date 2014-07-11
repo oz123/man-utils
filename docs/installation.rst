@@ -13,6 +13,9 @@ Or, if you have virtualenvwrapper installed::
 
 .. raw:: html
 
+    <link href="_static/nv.d3.css" rel="stylesheet" />
+    <script src="_static/d3.min.js"></script>
+    <script src="_static/nv.d3.min.js"></script>
     <div id="multiBarChart"><svg style="height:350px;"></svg></div>
     <script>
 
